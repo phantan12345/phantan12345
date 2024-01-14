@@ -6,11 +6,9 @@
 
 
 
-- 🔭 I’m currently working on **Vexa Web App**
+- 🔭 I’m currently working on **Web App**
 
-- 🌱 I’m currently learning **DevOps**
-
-- 💬 Ask me about **Android , MEARN**
+- 🌱 I’m currently learning **DevOps**, **Android , MEARN**
 
 - 📫 How to reach me **tan.pn@gmail.com**
 
